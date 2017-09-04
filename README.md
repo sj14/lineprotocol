@@ -7,7 +7,6 @@ timestamp0,measurement0
 timestamp1,measurement1
 timestamp2,measurement2
 ...
-}
 ```
 
 The available flags are:
